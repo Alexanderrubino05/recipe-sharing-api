@@ -1,4 +1,4 @@
-### Recipe Sharing API
+# Recipe Sharing API
 In this project I setup a fully CRUD API with comments, ratings, user auth and more. </br>
 You can find detail descriptions of all the code within my blog here: https://medium.com/@alexrubino05/recipe-sharing-api-setup-crud-functionality-1-4-99727d08836d
 
